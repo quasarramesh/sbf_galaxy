@@ -72,38 +72,4 @@ All steps are written explicitly to make the workflow easy to follow and modify.
 
 ---
 
-## Who this is for
 
-This notebook is designed for:
-
-* Undergraduate and MSc physics / astronomy students
-* Beginners learning astronomical data analysis
-* Anyone new to surface photometry
-
-No prior experience with `photutils` is assumed.
-
----
-
-## Limitations and notes
-
-* The analysis assumes **circular symmetry** (circular annuli)
-* Effects such as PSF correction, inclination, and extinction are not included
-* The surface brightness is shown in instrumental units unless calibrated separately
-
-These simplifications are intentional for clarity and learning purposes.
-
----
-
-## License
-
-This project is released for educational and academic use. You are free to reuse and modify the code with appropriate attribution.
-
----
-
-## Acknowledgments
-
-This notebook uses open-source tools from the Astropy and Photutils ecosystems. Their documentation and examples were invaluable in shaping this workflow.
-
----
-
-If you find this notebook useful, feel free to star the repository or adapt it for your own projects.
